@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "import-jsx": "^2.0.0",
+    "import-jsx": "^4.0.1",
     "ink": "^2.2.0",
     "ink-big-text": "^1.0.1",
     "ink-box": "^1.0.0",
